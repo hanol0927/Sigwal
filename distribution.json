@@ -136,7 +136,7 @@
           }
         },
         {
-          "id": "generated.fabricmod:cocoon-rt:2.0.1@jar",
+          "id": "generated.fabricmod:cocoon:2.0.1@jar",
           "name": "Cocoon",
           "type": "FabricMod",
           "artifact": {
