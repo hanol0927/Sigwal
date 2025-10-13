@@ -136,13 +136,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:cocoon:2.0.1@jar",
-          "name": "Cocoon",
+          "id": "net.cocoonmc.runtime:cocoon_rt:2.0.1@jar",
+          "name": "Cocoon Runtime Library",
           "type": "FabricMod",
           "artifact": {
-            "size": 527828,
+            "size": 381379,
             "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/cocoon-rt-2.0.1.jar",
-            "MD5": "dba93305f64f2b9e12890ae43782df95"
+            "MD5": "cf969132ca54976946b5e0f6dec178f1"
           }
         },
         {
