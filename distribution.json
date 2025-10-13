@@ -11,7 +11,7 @@
       "id": "Sigwal-1.20.1",
       "name": "Sigwal (Minecraft 1.20.1)",
       "description": "Sigwal Running Minecraft 1.20.1 (Fabric v0.17.3)",
-      "icon": "http://localhost:8080/servers/Sigwal-1.20.1/Icon.png",
+      "icon": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/Icon.png",
       "version": "1.0.0",
       "address": "aassdd889900.kr",
       "minecraftVersion": "1.20.1",
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1917330,
             "MD5": "54e368d0ccdcb9109a63f048e26526b0",
-            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar"
+            "url": "https://hanol0927.github.io/Sigwal/repo/lib/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "df823a94aa25d120f6509919d3c7764f",
-                "url": "http://localhost:8080/repo/versions/1.20.1-fabric-0.17.3/1.20.1-fabric-0.17.3.json"
+                "url": "https://hanol0927.github.io/Sigwal/repo/versions/1.20.1-fabric-0.17.3/1.20.1-fabric-0.17.3.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1504519,
                 "MD5": "798c8c25fb84d91b384bdee442c249d7",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6196603,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/armourersworkshop-fabric-1.20.1-3.2.4-beta.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/armourersworkshop-fabric-1.20.1-3.2.4-beta.jar",
             "MD5": "05f434835ba068d7a40ff4d2554066ec"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6738,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/blurserveraddress-1.0.0+mc1.20.1.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/blurserveraddress-1.0.0+mc1.20.1.jar",
             "MD5": "30b840a2f3d109a49755e0ae4b66ee58"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 527828,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/cocoon-2.0.1.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/cocoon-2.0.1.jar",
             "MD5": "dba93305f64f2b9e12890ae43782df95"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107873,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
             "MD5": "3483560775f416a4c759535b898165a5"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2726899,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1398098,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.112.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.112.jar",
             "MD5": "8a84279275a4dd9a686bc6cfd5ee9c37"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7209178,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
             "MD5": "0daacf8f13dd33450a970601cf21d627"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 564695,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/koreanpatch-fabric-1.9.0+mc1.20.1.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/koreanpatch-fabric-1.9.0+mc1.20.1.jar",
             "MD5": "04dfca134af2ff3f4bb58358bf25ad9f"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 971552,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11030,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/tabnametag-fabric-0.1.0+mc1.20.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/tabnametag-fabric-0.1.0+mc1.20.jar",
             "MD5": "efbe28182061f96223430c741d2fc260"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8059177,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.16.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.16.jar",
             "MD5": "3f610ea6d0ce33e1ddd1325394fc5cf2"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 155225,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/fabricmods/required/WI-Zoom-1.6-MC1.20.1.jar",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/WI-Zoom-1.6-MC1.20.1.jar",
             "MD5": "402e43eac5ceb006c20b19928f880fda"
           }
         },
@@ -241,7 +241,7 @@
           "type": "File",
           "artifact": {
             "size": 295,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/files/iris.properties",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/iris.properties",
             "MD5": "9eafcc36f40a8da7c3991a6fcd24c755",
             "path": "iris.properties"
           }
@@ -252,7 +252,7 @@
           "type": "File",
           "artifact": {
             "size": 6979,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/files/options.txt",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/options.txt",
             "MD5": "d53a8b2079574f917817ff632c53a233",
             "path": "options.txt"
           }
@@ -263,7 +263,7 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
@@ -274,7 +274,7 @@
           "type": "File",
           "artifact": {
             "size": 142280,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20High-MB.zip",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20High-MB.zip",
             "MD5": "1c72e84c550501ee88581e85294d2794",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 High-MB.zip"
           }
