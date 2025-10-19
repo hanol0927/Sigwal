@@ -241,7 +241,7 @@
           "type": "File",
           "artifact": {
             "size": 882413,
-            "url": "http://localhost:8080/servers/Sigwal-1.20.1/files/resourcepacks/generated.zip",
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/resourcepacks/generated.zip",
             "MD5": "aa74c5a94919c2258dd20aab7ba4934a",
             "path": "resourcepacks/generated.zip"
           }
