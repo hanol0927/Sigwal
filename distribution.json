@@ -236,6 +236,17 @@
           }
         },
         {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 882413,
+            "url": "http://localhost:8080/servers/Sigwal-1.20.1/files/resourcepacks/generated.zip",
+            "MD5": "aa74c5a94919c2258dd20aab7ba4934a",
+            "path": "resourcepacks/generated.zip"
+          }
+        },
+        {
           "id": "ComplementaryUnbound_r5.5.1.zip",
           "name": "ComplementaryUnbound_r5.5.1.zip",
           "type": "File",
