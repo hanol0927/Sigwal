@@ -1,6 +1,6 @@
 version:3465
 autoJump:false
-operatorItemsTab:false
+operatorItemsTab:true
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/BetterVanillaBuildingV3.5.zip","file/generated.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","file/resource pack.zip","file/generated.zip"]
+incompatibleResourcePacks:["file/resource pack.zip"]
 lastServer:
 lang:ko_kr
 soundDevice:""
@@ -121,10 +121,6 @@ key_key.hotbar.9:key.keyboard.9
 key_key.wi_zoom.zoom:key.keyboard.c
 key_keys.armourers_workshop.open-wardrobe:key.keyboard.p
 key_keys.armourers_workshop.undo:key.keyboard.z
-key_key.enterkey.up:key.keyboard.up
-key_key.enterkey.down:key.keyboard.down
-key_key.enterkey.left:key.keyboard.left
-key_key.enterkey.right:key.keyboard.right
 key_key.jei.toggleOverlay:key.keyboard.o
 key_key.jei.focusSearch:key.keyboard.f
 key_key.jei.previousPage:key.keyboard.unknown
@@ -189,7 +185,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.5298489304529971
+soundCategory_master:0.5027602442052981
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
