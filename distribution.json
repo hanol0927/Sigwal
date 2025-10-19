@@ -247,6 +247,17 @@
           }
         },
         {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 141,
+            "url": "http://localhost:8080/servers/Sigwal-1.20.1/files/servers.dat",
+            "MD5": "74e1ed4e9f20f3ca1e92aed8b48f1753",
+            "path": "servers.dat"
+          }
+        },
+        {
           "id": "ComplementaryUnbound_r5.5.1.zip",
           "name": "ComplementaryUnbound_r5.5.1.zip",
           "type": "File",
