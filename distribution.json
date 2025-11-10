@@ -8,280 +8,6 @@
   },
   "servers": [
     {
-      "id": "Sigwal-1.20.1",
-      "name": "으시시괄",
-      "description": "으시시괄 1.20.1 (Fabric v0.17.3)",
-      "icon": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/Icon.png",
-      "version": "1.0.0",
-      "address": "aassdd889900.kr",
-      "minecraftVersion": "1.20.1",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": true,
-      "modules": [
-        {
-          "id": "net.fabricmc:fabric-loader:0.17.3",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1917330,
-            "MD5": "54e368d0ccdcb9109a63f048e26526b0",
-            "url": "https://hanol0927.github.io/Sigwal/repo/lib/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar"
-          },
-          "subModules": [
-            {
-              "id": "1.20.1-fabric-0.17.3",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2847,
-                "MD5": "df823a94aa25d120f6509919d3c7764f",
-                "url": "https://hanol0927.github.io/Sigwal/repo/versions/1.20.1-fabric-0.17.3/1.20.1-fabric-0.17.3.json"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.9",
-              "name": "Fabric (asm)",
-              "type": "Library",
-              "artifact": {
-                "size": 126122,
-                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-analysis:9.9",
-              "name": "Fabric (asm-analysis)",
-              "type": "Library",
-              "artifact": {
-                "size": 35149,
-                "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-commons:9.9",
-              "name": "Fabric (asm-commons)",
-              "type": "Library",
-              "artifact": {
-                "size": 74348,
-                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.9",
-              "name": "Fabric (asm-tree)",
-              "type": "Library",
-              "artifact": {
-                "size": 51947,
-                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-util:9.9",
-              "name": "Fabric (asm-util)",
-              "type": "Library",
-              "artifact": {
-                "size": 94565,
-                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7",
-              "name": "Fabric (sponge-mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1504519,
-                "MD5": "798c8c25fb84d91b384bdee442c249d7",
-                "url": "https://hanol0927.github.io/Sigwal/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:intermediary:1.20.1",
-              "name": "Fabric (intermediary)",
-              "type": "Library",
-              "artifact": {
-                "size": 573365,
-                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://hanol0927.github.io/Sigwal/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
-              }
-            }
-          ]
-        },
-        {
-          "id": "moe.plushie.armourers_workshop.init.platform.fabric.proxy:armourers_workshop:3.2.4-beta@jar",
-          "name": "Armourer's Workshop",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 6196603,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/armourersworkshop-fabric-1.20.1-3.2.4-beta.jar",
-            "MD5": "05f434835ba068d7a40ff4d2554066ec"
-          }
-        },
-        {
-          "id": "kr.shihyeon:blurserveraddress:1.0.0+mc1.20.1@jar",
-          "name": "BlurServerAddress",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 6738,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/blurserveraddress-1.0.0+mc1.20.1.jar",
-            "MD5": "30b840a2f3d109a49755e0ae4b66ee58"
-          }
-        },
-        {
-          "id": "net.cocoonmc.runtime:cocoon_rt:2.0.1@jar",
-          "name": "Cocoon Runtime Library",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 381379,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/cocoon-rt-2.0.1.jar",
-            "MD5": "cf969132ca54976946b5e0f6dec178f1"
-          }
-        },
-        {
-          "id": "generated.fabricmod:fabric-api:0.92.6+1.20.1@jar",
-          "name": "Fabric API",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2107873,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
-            "MD5": "3483560775f416a4c759535b898165a5"
-          }
-        },
-        {
-          "id": "generated.fabricmod:iris:1.7.6+mc1.20.1@jar",
-          "name": "Iris",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2726899,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
-            "MD5": "45577adb5ab16505572c6ea4b1006e58"
-          }
-        },
-        {
-          "id": "mezz.jei:jei:15.20.0.112@jar",
-          "name": "Just Enough Items",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1398098,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.112.jar",
-            "MD5": "8a84279275a4dd9a686bc6cfd5ee9c37"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:5.10.3@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 7209178,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
-            "MD5": "0daacf8f13dd33450a970601cf21d627"
-          }
-        },
-        {
-          "id": "com.hyfata.najoan:koreanpatch:1.9.0+mc1.20.1@jar",
-          "name": "Korean Patch",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 564695,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/koreanpatch-fabric-1.9.0+mc1.20.1.jar",
-            "MD5": "04dfca134af2ff3f4bb58358bf25ad9f"
-          }
-        },
-        {
-          "id": "me.jellysquid.mods:sodium:0.5.13+mc1.20.1@jar",
-          "name": "Sodium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 971552,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
-            "MD5": "76e0349865f91f315aae087a6e88a84a"
-          }
-        },
-        {
-          "id": "kr.shihyeon:tabnametag:0.1.0+mc1.20@jar",
-          "name": "TabNameTag",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 11030,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/tabnametag-fabric-0.1.0+mc1.20.jar",
-            "MD5": "efbe28182061f96223430c741d2fc260"
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.16@jar",
-          "name": "Simple Voice Chat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 8045681,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.16.jar",
-            "MD5": "2ed206d55f4692c224319f3205f13ee3"
-          }
-        },
-        {
-          "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.20.1@jar",
-          "name": "WI Zoom",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 155225,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/WI-Zoom-1.6-MC1.20.1.jar",
-            "MD5": "402e43eac5ceb006c20b19928f880fda"
-          }
-        },
-        {
-          "id": "generated.zip",
-          "name": "generated.zip",
-          "type": "File",
-          "artifact": {
-            "size": 882413,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/resourcepacks/generated.zip",
-            "MD5": "aa74c5a94919c2258dd20aab7ba4934a",
-            "path": "resourcepacks/generated.zip"
-          }
-        },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 141,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/servers.dat",
-            "MD5": "74e1ed4e9f20f3ca1e92aed8b48f1753",
-            "path": "servers.dat"
-          }
-        },
-        {
-          "id": "ComplementaryUnbound_r5.5.1.zip",
-          "name": "ComplementaryUnbound_r5.5.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 456332,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
-            "MD5": "576ef06da170458879f3a03e685d487a",
-            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
-          }
-        },
-        {
-          "id": "Sildur's Vibrant Shaders v1.51 High-MB.zip",
-          "name": "Sildur's Vibrant Shaders v1.51 High-MB.zip",
-          "type": "File",
-          "artifact": {
-            "size": 142280,
-            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20High-MB.zip",
-            "MD5": "1c72e84c550501ee88581e85294d2794",
-            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 High-MB.zip"
-          }
-        }
-      ]
-    },
-    {
       "id": "Iris-1.21.6",
       "name": "이리스",
       "description": "이리스 1.21.6 (Fabric v0.18.0)",
@@ -1560,6 +1286,280 @@
             "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/files/Cupkemon_Itemsadder_pack.zip",
             "MD5": "f700b5d6eedbdf3bbea187d788da1371",
             "path": "resourcepacks/Cupkemon_Itemsadder_pack.zip"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Sigwal-1.20.1",
+      "name": "으시시괄",
+      "description": "으시시괄 1.20.1 (Fabric v0.17.3)",
+      "icon": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/Icon.png",
+      "version": "1.0.0",
+      "address": "aassdd889900.kr",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.17.3",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1917330,
+            "MD5": "54e368d0ccdcb9109a63f048e26526b0",
+            "url": "https://hanol0927.github.io/Sigwal/repo/lib/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.17.3",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "df823a94aa25d120f6509919d3c7764f",
+                "url": "https://hanol0927.github.io/Sigwal/repo/versions/1.20.1-fabric-0.17.3/1.20.1-fabric-0.17.3.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1504519,
+                "MD5": "798c8c25fb84d91b384bdee442c249d7",
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 573365,
+                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
+                "url": "https://hanol0927.github.io/Sigwal/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "moe.plushie.armourers_workshop.init.platform.fabric.proxy:armourers_workshop:3.2.4-beta@jar",
+          "name": "Armourer's Workshop",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6196603,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/armourersworkshop-fabric-1.20.1-3.2.4-beta.jar",
+            "MD5": "05f434835ba068d7a40ff4d2554066ec"
+          }
+        },
+        {
+          "id": "kr.shihyeon:blurserveraddress:1.0.0+mc1.20.1@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6738,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/blurserveraddress-1.0.0+mc1.20.1.jar",
+            "MD5": "30b840a2f3d109a49755e0ae4b66ee58"
+          }
+        },
+        {
+          "id": "net.cocoonmc.runtime:cocoon_rt:2.0.1@jar",
+          "name": "Cocoon Runtime Library",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 381379,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/cocoon-rt-2.0.1.jar",
+            "MD5": "cf969132ca54976946b5e0f6dec178f1"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.92.6+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107873,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
+            "MD5": "3483560775f416a4c759535b898165a5"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.7.6+mc1.20.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2726899,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "MD5": "45577adb5ab16505572c6ea4b1006e58"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.112@jar",
+          "name": "Just Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1398098,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.112.jar",
+            "MD5": "8a84279275a4dd9a686bc6cfd5ee9c37"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.10.3@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7209178,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
+            "MD5": "0daacf8f13dd33450a970601cf21d627"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.0+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 564695,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/koreanpatch-fabric-1.9.0+mc1.20.1.jar",
+            "MD5": "04dfca134af2ff3f4bb58358bf25ad9f"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.13+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 971552,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "MD5": "76e0349865f91f315aae087a6e88a84a"
+          }
+        },
+        {
+          "id": "kr.shihyeon:tabnametag:0.1.0+mc1.20@jar",
+          "name": "TabNameTag",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11030,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/tabnametag-fabric-0.1.0+mc1.20.jar",
+            "MD5": "efbe28182061f96223430c741d2fc260"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.16@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8045681,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.16.jar",
+            "MD5": "2ed206d55f4692c224319f3205f13ee3"
+          }
+        },
+        {
+          "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.20.1@jar",
+          "name": "WI Zoom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 155225,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/fabricmods/required/WI-Zoom-1.6-MC1.20.1.jar",
+            "MD5": "402e43eac5ceb006c20b19928f880fda"
+          }
+        },
+        {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 882413,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/resourcepacks/generated.zip",
+            "MD5": "aa74c5a94919c2258dd20aab7ba4934a",
+            "path": "resourcepacks/generated.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 141,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/servers.dat",
+            "MD5": "74e1ed4e9f20f3ca1e92aed8b48f1753",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456332,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.51 High-MB.zip",
+          "name": "Sildur's Vibrant Shaders v1.51 High-MB.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142280,
+            "url": "https://hanol0927.github.io/Sigwal/servers/Sigwal-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20High-MB.zip",
+            "MD5": "1c72e84c550501ee88581e85294d2794",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 High-MB.zip"
           }
         }
       ]
