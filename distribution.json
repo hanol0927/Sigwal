@@ -280,6 +280,219 @@
           }
         }
       ]
+    },
+    {
+      "id": "Iris-1.21.6",
+      "name": "이리스",
+      "description": "이리스 1.21.6 (Fabric v0.18.0)",
+      "icon": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/Icon.png",
+      "version": "1.0.0",
+      "address": "114.207.212.98:10013",
+      "minecraftVersion": "1.21.6",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.18.0",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1944012,
+            "MD5": "54ae672be359aec0a36411e60885634c",
+            "url": "https://hanol0927.github.io/Iris/repo/lib/net/fabricmc/fabric-loader/0.18.0/fabric-loader-0.18.0.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.6-fabric-0.18.0",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "496f1b1c64fa03c8a55460ea7a854750",
+                "url": "https://hanol0927.github.io/Iris/repo/versions/1.21.6-fabric-0.18.0/1.21.6-fabric-0.18.0.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "url": "https://hanol0927.github.io/Iris/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "url": "https://hanol0927.github.io/Iris/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "url": "https://hanol0927.github.io/Iris/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "url": "https://hanol0927.github.io/Iris/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "url": "https://hanol0927.github.io/Iris/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1504519,
+                "MD5": "798c8c25fb84d91b384bdee442c249d7",
+                "url": "https://hanol0927.github.io/Iris/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.6",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 746244,
+                "MD5": "5ef0f4263f86f44294cccfde02b7922a",
+                "url": "https://hanol0927.github.io/Iris/repo/lib/net/fabricmc/intermediary/1.21.6/intermediary-1.21.6.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.128.2+1.21.6@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2209737,
+            "url": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/fabricmods/required/fabric-api-0.128.2+1.21.6.jar",
+            "MD5": "0354034e6252220eb61c47930ca97355"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.9.6+mc1.21.8@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2742813,
+            "url": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/fabricmods/required/iris-fabric-1.9.6+mc1.21.8.jar",
+            "MD5": "64fdd8ffe47175923a1cfb6b0617867d"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.6-6.0.0-beta.52@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3607651,
+            "url": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/fabricmods/required/journeymap-fabric-1.21.6-6.0.0-beta.52.jar",
+            "MD5": "b6c665b7ffcc575ab51858e67fdc3de6"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.0+mc1.21.6@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 611381,
+            "url": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/fabricmods/required/koreanpatch-fabric-1.9.0+mc1.21.6.jar",
+            "MD5": "a7cac23d80da287ab7ab56c644ca088b"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.7.2+mc1.21.8@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1620053,
+            "url": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/fabricmods/required/sodium-fabric-0.7.2+mc1.21.8.jar",
+            "MD5": "5f81ed6bffbbd3c59707916941fccae8"
+          }
+        },
+        {
+          "id": "kr.shihyeon:tabnametag:0.1.0+mc1.21.2@jar",
+          "name": "TabNameTag",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11004,
+            "url": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/fabricmods/required/tabnametag-fabric-0.1.0+mc1.21.2.jar",
+            "MD5": "ccd2d08433133ca66ca082dd459a003e"
+          }
+        },
+        {
+          "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.21.6@jar",
+          "name": "WI Zoom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 154631,
+            "url": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/fabricmods/required/WI-Zoom-1.6-MC1.21.6.jar",
+            "MD5": "65bb182dcf81660e891db115a7c88a8e"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5917,
+            "url": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/files/options.txt",
+            "MD5": "3751aa84fb2d1ab12c5c8737c772b194",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 125419,
+            "url": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/files/resourcepacks/generated.zip",
+            "MD5": "364e7a5a76fb4548ddfcac4d35ea63c5",
+            "path": "resourcepacks/generated.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 139,
+            "url": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/files/servers.dat",
+            "MD5": "a6dcd7251676ddfd2826bebea2b6b3d9",
+            "path": "servers.dat"
+          }
+        }
+      ]
     }
   ]
 }
