@@ -497,6 +497,16 @@
           }
         },
         {
+          "id": "com.chaosthedude:naturescompass:1.16.5-1.9.1-forge@jar",
+          "name": "Nature's Compass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 203573,
+            "url": "https://hanol0927.github.io/nuketmon/servers/Nuketmon-1.16.5/forgemods/required/NaturesCompass-1.16.5-1.9.1-forge.jar",
+            "MD5": "1ed5def709b0b9d0f40db32d0877fad0"
+          }
+        },
+        {
           "id": "legendarytooltips-common.toml",
           "name": "legendarytooltips-common.toml",
           "type": "File",
