@@ -547,7 +547,7 @@
       "description": "러쉬 1.21.10 (Fabric v0.18.0)",
       "icon": "https://hanol0927.github.io/Rush/servers/Rush-1.21.10/Icon.png",
       "version": "1.0.0",
-      "address": "114.207.212.98:10013",
+      "address": "121.135.121.185",
       "minecraftVersion": "1.21.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
