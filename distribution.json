@@ -542,186 +542,6 @@
       ]
     },
     {
-      "id": "Rush-1.21.10",
-      "name": "러쉬",
-      "description": "러쉬 1.21.10 (Fabric v0.18.0)",
-      "icon": "https://hanol0927.github.io/Rush/servers/Rush-1.21.10/Icon.png",
-      "version": "1.0.0",
-      "address": "114.207.212.98:10013",
-      "minecraftVersion": "1.21.10",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": true,
-      "modules": [
-        {
-          "id": "net.fabricmc:fabric-loader:0.18.0",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1944012,
-            "MD5": "54ae672be359aec0a36411e60885634c",
-            "url": "https://hanol0927.github.io/Rush/repo/lib/net/fabricmc/fabric-loader/0.18.0/fabric-loader-0.18.0.jar"
-          },
-          "subModules": [
-            {
-              "id": "1.21.10-fabric-0.18.0",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2850,
-                "MD5": "245086dfe60f3718e4010b40901aa814",
-                "url": "https://hanol0927.github.io/Rush/repo/versions/1.21.10-fabric-0.18.0/1.21.10-fabric-0.18.0.json"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.9",
-              "name": "Fabric (asm)",
-              "type": "Library",
-              "artifact": {
-                "size": 126122,
-                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "https://hanol0927.github.io/Rush/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-analysis:9.9",
-              "name": "Fabric (asm-analysis)",
-              "type": "Library",
-              "artifact": {
-                "size": 35149,
-                "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "https://hanol0927.github.io/Rush/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-commons:9.9",
-              "name": "Fabric (asm-commons)",
-              "type": "Library",
-              "artifact": {
-                "size": 74348,
-                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "https://hanol0927.github.io/Rush/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.9",
-              "name": "Fabric (asm-tree)",
-              "type": "Library",
-              "artifact": {
-                "size": 51947,
-                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "https://hanol0927.github.io/Rush/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-util:9.9",
-              "name": "Fabric (asm-util)",
-              "type": "Library",
-              "artifact": {
-                "size": 94565,
-                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "https://hanol0927.github.io/Rush/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7",
-              "name": "Fabric (sponge-mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1504519,
-                "MD5": "798c8c25fb84d91b384bdee442c249d7",
-                "url": "https://hanol0927.github.io/Rush/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:intermediary:1.21.10",
-              "name": "Fabric (intermediary)",
-              "type": "Library",
-              "artifact": {
-                "size": 778652,
-                "MD5": "612031a185c7493cc93e908a875b72cc",
-                "url": "https://hanol0927.github.io/Rush/repo/lib/net/fabricmc/intermediary/1.21.10/intermediary-1.21.10.jar"
-              }
-            }
-          ]
-        },
-        {
-          "id": "generated.fabricmod:fabric-api:0.138.3+1.21.10@jar",
-          "name": "Fabric API",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2376234,
-            "url": "https://hanol0927.github.io/Rush/servers/Rush-1.21.10/fabricmods/required/fabric-api-0.138.3+1.21.10.jar",
-            "MD5": "b263728ad8fceb348162ac0b18c02de6"
-          }
-        },
-        {
-          "id": "generated.fabricmod:fabric-language-kotlin:1.13.6+kotlin.2.2.20@jar",
-          "name": "Fabric Language Kotlin",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 7479598,
-            "url": "https://hanol0927.github.io/Rush/servers/Rush-1.21.10/fabricmods/required/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
-            "MD5": "c1d19e5d8b325b55c11c767468005aa2"
-          }
-        },
-        {
-          "id": "generated.fabricmod:iris:1.9.6+mc1.21.9@jar",
-          "name": "Iris",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2708042,
-            "url": "https://hanol0927.github.io/Rush/servers/Rush-1.21.10/fabricmods/required/iris-fabric-1.9.6+mc1.21.9.jar",
-            "MD5": "d0695462e2d28cc581f87311614e2052"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:1.21.10-6.0.0-beta.53@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3609085,
-            "url": "https://hanol0927.github.io/Rush/servers/Rush-1.21.10/fabricmods/required/journeymap-fabric-1.21.10-6.0.0-beta.53.jar",
-            "MD5": "24f4edb78e5f1ac456f72066a0725272"
-          }
-        },
-        {
-          "id": "com.hyfata.najoan:koreanpatch:1.9.3+mc1.21.10@jar",
-          "name": "Korean Patch",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 643902,
-            "url": "https://hanol0927.github.io/Rush/servers/Rush-1.21.10/fabricmods/required/koreanpatch-fabric-1.9.3+mc1.21.10.jar",
-            "MD5": "e6ad4af50910c892a3ce558dfbf6552c"
-          }
-        },
-        {
-          "id": "net.caffeinemc.mods:sodium:0.7.3+mc1.21.10@jar",
-          "name": "Sodium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1676903,
-            "url": "https://hanol0927.github.io/Rush/servers/Rush-1.21.10/fabricmods/required/sodium-fabric-0.7.3+mc1.21.10.jar",
-            "MD5": "57a54742a51ae95bdc47e83f7245a9e2"
-          }
-        },
-        {
-          "id": "dev.isxander:zoomify:2.14.6+1.21.9@jar",
-          "name": "Zoomify",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1869193,
-            "url": "https://hanol0927.github.io/Rush/servers/Rush-1.21.10/fabricmods/required/Zoomify-2.14.6+1.21.9.jar",
-            "MD5": "b18b8126f580e1a410114054e7ec1eb6"
-          }
-        }
-      ]
-    },
-    {
       "id": "Iris-1.21.6",
       "name": "이리스",
       "description": "이리스 1.21.6 (Fabric v0.18.0)",
@@ -975,6 +795,25 @@
       "mainServer": false,
       "autoconnect": true,
       "modules": [
+      ]
+    },
+    {
+      "id": "Rush-1.21.10",
+      "name": "러쉬",
+      "description": "러쉬 1.21.10 (Fabric v0.18.0)",
+      "icon": "https://hanol0927.github.io/Rush/servers/Rush-1.21.10/Icon.png",
+      "version": "1.0.0",
+      "address": "",
+      "minecraftVersion": "1.21.10",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        
       ]
     }
   ]
