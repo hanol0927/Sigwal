@@ -693,16 +693,6 @@
           }
         },
         {
-          "id": "com.supermartijn642:durabilitytooltip:1.1.6@jar",
-          "name": "Durability Tooltip",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 22344,
-            "url": "https://hanol0927.github.io/ChaQ/servers/ChaQ-1.20.1/forgemods/required/durabilitytooltip-1.1.6-forge-mc1.20.jar",
-            "MD5": "bad7f67ed1b4b322654d6b9a58a611cb"
-          }
-        },
-        {
           "id": "mod.crend:dynamiccrosshair:9.10@jar",
           "name": "Dynamic Crosshair",
           "type": "ForgeMod",
