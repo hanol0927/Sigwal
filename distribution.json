@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "Iris-1.21.6",
+      "id": "Iris-1.21.11",
       "name": "이리스",
-      "description": "이리스 1.21.6 (Fabric v0.18.0)",
-      "icon": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/Icon.png",
+      "description": "이리스 1.21.11 (Fabric v0.18.4)",
+      "icon": "https://hanol0927.github.io/Iris/servers/Iris-1.21.11/Icon.png",
       "version": "1.0.0",
-      "address": "",
-      "minecraftVersion": "1.21.6",
+      "address": "devnetwork.dotsminestudio.kr:10013",
+      "minecraftVersion": "1.21.11",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
