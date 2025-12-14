@@ -8,6 +8,24 @@
   },
   "servers": [
     {
+      "id": "Iris-1.21.6",
+      "name": "이리스",
+      "description": "이리스 1.21.6 (Fabric v0.18.0)",
+      "icon": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/Icon.png",
+      "version": "1.0.0",
+      "address": "",
+      "minecraftVersion": "1.21.6",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+      ]
+    },
+    {
       "id": "ChaQ-1.20.1",
       "name": "차큐",
       "description": "차큐 1.20.1 (Forge v47.4.10)",
@@ -1348,24 +1366,6 @@
       "version": "1.0.0",
       "address": "",
       "minecraftVersion": "1.16.5",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-      ]
-    },
-    {
-      "id": "Iris-1.21.6",
-      "name": "이리스",
-      "description": "이리스 1.21.6 (Fabric v0.18.0)",
-      "icon": "https://hanol0927.github.io/Iris/servers/Iris-1.21.6/Icon.png",
-      "version": "1.0.0",
-      "address": "",
-      "minecraftVersion": "1.21.6",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
