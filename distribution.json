@@ -368,6 +368,17 @@
           }
         },
         {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1427931,
+            "url": "https://hanol0927.github.io/Iris/servers/Iris-1.21.10/files/resourcepacks/generated.zip",
+            "MD5": "9928e06031c1591efaba9417c9bce647",
+            "path": "resourcepacks/generated.zip"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
