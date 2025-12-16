@@ -408,7 +408,7 @@
       "description": "차큐 1.20.1 (Forge v47.4.10)",
       "icon": "https://hanol0927.github.io/ChaQ/servers/ChaQ-1.20.1/Icon.png",
       "version": "1.0.0",
-      "address": "devnetwork.dotsminestudio.kr:10013",
+      "address": "182.216.39.123:20007",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
