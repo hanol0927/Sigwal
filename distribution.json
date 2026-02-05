@@ -21,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.neoforged:neoforge:21.1.219:universal",
@@ -570,11 +570,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 195730,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
             "MD5": "ad6dc60871b30f6d69f25c0ec7d79871"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -583,11 +580,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 84811185,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/AmbientSounds_NEOFORGE_v6.3.4_mc1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/AmbientSounds_NEOFORGE_v6.3.4_mc1.21.1.jar",
             "MD5": "852627ec7fbf278441c1866df2aab1a9"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -596,11 +590,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 75595,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/appleskin-neoforge-mc1.21-3.0.8.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/appleskin-neoforge-mc1.21-3.0.8.jar",
             "MD5": "9da2c7b1d00041794cce7f41a12f0935"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -609,11 +600,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5892376,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/armourersworkshop-forge-1.21.1-3.2.7-beta.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/armourersworkshop-forge-1.21.1-3.2.7-beta.jar",
             "MD5": "c01559a659655155320d77401fd86a6f"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -622,11 +610,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22742,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/betterfpsdist-1.21-6.0.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/betterfpsdist-1.21-6.0.jar",
             "MD5": "081882282efe6239ac294b2d1fe2cd22"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -635,11 +620,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 60941,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/BetterThirdPerson-neoforge-1.9.0.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/BetterThirdPerson-neoforge-1.9.0.jar",
             "MD5": "cb6470da1b6bbe6880fcf721aa87e0e1"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -648,11 +630,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 196983,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/blur-neoforge-6.1.0+1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/blur-neoforge-6.1.0+1.21.1.jar",
             "MD5": "b930086c6cfefab1fd310252c9f79b62"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -661,11 +640,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10810,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/blurserveraddress-neoforge-1.2.0+mc1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/blurserveraddress-neoforge-1.2.0+mc1.21.1.jar",
             "MD5": "2bd9bceb47ecb24c931bb99d60b08834"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -674,11 +650,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 85282,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/chat_heads-0.14.2-neoforge-1.21.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/chat_heads-0.14.2-neoforge-1.21.jar",
             "MD5": "3fb967e0ae6e2429981b6bbf56ef7861"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -687,11 +660,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1163890,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/cloth-config-15.0.140-neoforge.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/cloth-config-15.0.140-neoforge.jar",
             "MD5": "4c3757160403fcccb8ad468c2ea22862"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -700,11 +670,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18382,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/Clumps-neoforge-1.21.1-19.0.0.1.jar",
             "MD5": "8b42a9d7a72bde90fa061d17e2859e7b"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -713,11 +680,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4528520,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/connector-2.0.0-beta.12+1.21.1-full.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/connector-2.0.0-beta.12+1.21.1-full.jar",
             "MD5": "ca4679d1f7b4fbafb4cd0ba0d103a057"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -726,11 +690,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 63981,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/coroutil-neoforge-1.21.0-1.3.8.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/coroutil-neoforge-1.21.0-1.3.8.jar",
             "MD5": "9d410a84fe0216ce18568993afb4f8e5"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -739,11 +700,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1207043,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/CreativeCore_NEOFORGE_v2.13.26_mc1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/CreativeCore_NEOFORGE_v2.13.26_mc1.21.1.jar",
             "MD5": "8971b0f402ec1459a0cfc6d4cf783f62"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -752,11 +710,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 94735,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/cullleaves-neoforge-4.1.1+1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/cullleaves-neoforge-4.1.1+1.21.1.jar",
             "MD5": "2b0b25cd86a1bb1179862aa4088677aa"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -765,11 +720,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23509,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/cupboard-1.21-2.9.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/cupboard-1.21-2.9.jar",
             "MD5": "9cc5caf701898ba7236ca1e841d9049b"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -778,11 +730,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10789250,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
             "MD5": "34f52ed3b674bb956b7a0d7f6967c00f"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -791,11 +740,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 220193,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
             "MD5": "e5ef3e5d37eedad79cf44897229fd8f2"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -804,11 +750,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 514029,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/dynamiccrosshair-9.11+1.21.1-neoforge.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/dynamiccrosshair-9.11+1.21.1-neoforge.jar",
             "MD5": "3cb777c4c24b6b4ba2d23a20c48a3e33"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -817,11 +760,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1048745,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/embeddium-1.0.15+mc1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/embeddium-1.0.15+mc1.21.1.jar",
             "MD5": "55d23daccc9bf63447a4cb10e3c21db1"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -830,11 +770,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 861829,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
             "MD5": "c4840725c74865e2ba95807396c66a4f"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -843,11 +780,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 487476,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/entity_model_features_1.21-neoforge-3.0.10.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/entity_model_features_1.21-neoforge-3.0.10.jar",
             "MD5": "14c68b73cf3d57e9fb1bf49df080fa96"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -856,11 +790,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 733270,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/entity_texture_features_1.21-neoforge-7.0.8.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/entity_texture_features_1.21-neoforge-7.0.8.jar",
             "MD5": "2b4dc28a1c96981182ea88d9c1c0a770"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -869,11 +800,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1564767,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/entityculling-neoforge-1.9.5-mc1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/entityculling-neoforge-1.9.5-mc1.21.1.jar",
             "MD5": "ef1da268d5562d65d85da5af3c290a03"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -882,11 +810,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 35691,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/EquipmentCompare-1.21.1-neoforge-1.3.13.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/EquipmentCompare-1.21.1-neoforge-1.3.13.jar",
             "MD5": "3cd142f21a18d3eb6249424e274983c2"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -895,11 +820,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7618852,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
             "MD5": "964103287b72e606de845420d1a8cc57"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -908,11 +830,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 153343,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/fallingleaves-1.21.1-2.5.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/fallingleaves-1.21.1-2.5.1.jar",
             "MD5": "79fe63b32b05155bb1d70cd491a9a6b1"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -921,11 +840,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 438450,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/farsight-1.21.1-4.5.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/farsight-1.21.1-4.5.jar",
             "MD5": "df8d68fefe71a3f444f6538bd865dc8b"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -934,11 +850,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5551427,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/forgified-fabric-api-0.116.7+2.2.0+1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/forgified-fabric-api-0.116.7+2.2.0+1.21.1.jar",
             "MD5": "16c594229ea54cbed4e015aa423c6ac6"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -947,11 +860,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 888074,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/fragmentum-neoforge-1.21.1-2.1.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/fragmentum-neoforge-1.21.1-2.1.1.jar",
             "MD5": "01806c9d61343f5d87d126ea27c0aa29"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -960,11 +870,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 107291,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/holdmyitemsnf-1.21.1v2.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/holdmyitemsnf-1.21.1v2.1.jar",
             "MD5": "ae6743d15412348eb542f72522c2a6a5"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -973,11 +880,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 213853,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/Iceberg-1.21.1-neoforge-1.3.2.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/Iceberg-1.21.1-neoforge-1.3.2.jar",
             "MD5": "68473a4ca9a827669c13d3855c8dc0e2"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -986,11 +890,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4157,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/imfast-NEOFORGE-1.0.2.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/imfast-NEOFORGE-1.0.2.jar",
             "MD5": "c5452cd774be8b0bd67fa75c54be2dba"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -999,11 +900,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 368598,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
             "MD5": "567bb6d9155070ad858740af12450c63"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1012,11 +910,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 53673,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/ItemPhysic_NEOFORGE_v1.8.9_mc1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/ItemPhysic_NEOFORGE_v1.8.9_mc1.21.1.jar",
             "MD5": "4c4f31f87c0dd20dbaa8a5e3880d8820"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1025,11 +920,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1529192,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/jei-1.21.1-neoforge-19.27.0.336.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/jei-1.21.1-neoforge-19.27.0.336.jar",
             "MD5": "d3da422d1a44e31af8a8d036b3d338f7"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1038,11 +930,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3538766,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/journeymap-neoforge-1.21.1-6.0.0-beta.53.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/journeymap-neoforge-1.21.1-6.0.0-beta.53.jar",
             "MD5": "78a5a8cb98b346291857628580c936e9"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1051,11 +940,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 310970,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/koreanpatch-neoforge-1.9.5+mc1.21.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/koreanpatch-neoforge-1.9.5+mc1.21.jar",
             "MD5": "dce947c251851ba71f60d8d71c859160"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1064,11 +950,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 567562,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/lithostitched-1.5.7-neoforge-1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/lithostitched-1.5.7-neoforge-1.21.1.jar",
             "MD5": "18d36534a251cb17530c630982fc98a9"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1077,11 +960,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 60347,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/midnightlib-neoforge-1.9.2+1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/midnightlib-neoforge-1.9.2+1.21.1.jar",
             "MD5": "2ed25f310dc20c6aef4ad032c806d4b7"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1090,11 +970,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25030667,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
             "MD5": "30a7056c9aa00e8c112582915f8a4430"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1103,11 +980,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2799219,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/neoculus-mc1.21.1-1.8.7.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/neoculus-mc1.21.1-1.8.7.jar",
             "MD5": "81faed9f91d6d588114d188d8b34ba0b"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1116,11 +990,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1928789,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/notenoughanimations-neoforge-1.11.1-mc1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/notenoughanimations-neoforge-1.11.1-mc1.21.1.jar",
             "MD5": "b68335d3c4bb23b78a2a73cdf0a81f4a"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1129,11 +1000,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 448523,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
             "MD5": "0bd25912f66e034f260fbcb72b2521f0"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1142,11 +1010,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 614152,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/optigui-2.3.0-beta.9+1.21.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/optigui-2.3.0-beta.9+1.21.jar",
             "MD5": "a32591f69f9ba7fd056c7fb28b82c521"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1155,11 +1020,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 84147,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/saturn-mc1.21.1-0.1.5.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/saturn-mc1.21.1-0.1.5.jar",
             "MD5": "f05622f75f99d76cab97388c57d7f22e"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1168,11 +1030,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16821,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/smoothboot-1.0.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/smoothboot-1.0.jar",
             "MD5": "2994061c02eab0adf75229802ec3a93c"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1181,11 +1040,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 176633,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/smoothgui-neoforge-1.21.1-1.1.0.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/smoothgui-neoforge-1.21.1-1.1.0.jar",
             "MD5": "bb461675c7a7b3dcf6693e11d3a53ea6"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1194,11 +1050,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30334,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/snowundertrees-1.21.1-1.5.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/snowundertrees-1.21.1-1.5.jar",
             "MD5": "0582f5d04dc3d4445947bb0782f64ab5"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1207,11 +1060,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 299353,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
             "MD5": "daaa3a9e438fddffc1db19bf8a7dfba0"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1220,11 +1070,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 202454,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
             "MD5": "fe3cafa3f67c86272ee1d0cdf96fb2ac"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1233,11 +1080,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4890462,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/voicechat-neoforge-1.21.1-2.6.11.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/voicechat-neoforge-1.21.1-2.6.11.jar",
             "MD5": "6348bb7afabdea396e0b59c8d7dca16f"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1246,11 +1090,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 432269,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/watut-neoforge-1.21.0-1.2.7.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/watut-neoforge-1.21.0-1.2.7.jar",
             "MD5": "31cfc24b7997dbf6ed84cd844de37d7d"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1259,11 +1100,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5695,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/optionalon/wso64-1.0.0.jar",
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/wso64-1.0.0.jar",
             "MD5": "1b1908fe2c63bf1e21da5a9b7b1fab86"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -2210,6 +2048,17 @@
             "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/files/resourcepacks/CYML.zip",
             "MD5": "4572e549160c95abd5a5c6d92d12e87f",
             "path": "resourcepacks/CYML.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 100,
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/files/servers.dat",
+            "MD5": "26b13356fb70765ef236af8ec78a0efa",
+            "path": "servers.dat"
           }
         }
       ]
