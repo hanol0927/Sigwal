@@ -13,7 +13,7 @@
       "description": "챈리포터 1.16.5 (Forge v36.2.42)",
       "icon": "https://hanol0927.github.io/chaennawizard/servers/chaennawizard-1.16.5/Icon.png",
       "version": "1.0.0",
-      "address": "182.216.39.123",
+      "address": "121.135.121.185:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
