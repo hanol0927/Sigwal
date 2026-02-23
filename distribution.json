@@ -605,13 +605,13 @@
           }
         },
         {
-          "id": "generated.forgemod:blurserveraddress:fabric-1.2.0+mc1.21.2@jar",
-          "name": "Blurserveraddress",
+          "id": "generated.forgemod:blurserveraddress:1.2.0+mc1.21.2@jar",
+          "name": "BlurServerAddress",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11418,
-            "url": "https://hanol0927.github.io/haru/servers/haru-1.21.4/forgemods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
-            "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
+            "size": 11069,
+            "url": "https://hanol0927.github.io/haru/servers/haru-1.21.4/forgemods/required/blurserveraddress-neoforge-1.2.0+mc1.21.2.jar",
+            "MD5": "94cdefb30838922fa450f1380d78dea5"
           }
         },
         {
