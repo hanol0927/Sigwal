@@ -925,6 +925,36 @@
           }
         },
         {
+          "id": "generated.forgemod:chunkloaders:1.2.8-mc1.21@jar",
+          "name": "Chunk Loaders",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 143749,
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/chunkloaders-1.2.8-neoforge-mc1.21.jar",
+            "MD5": "c9b6897f622c53566a04ed8313bf603c"
+          }
+        },
+        {
+          "id": "generated.forgemod:supermartijn642configlib:1.1.8-mc1.21@jar",
+          "name": "SuperMartijn642 Config Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 207514,
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+            "MD5": "0428149c5db7bad43d75e6f758f47678"
+          }
+        },
+        {
+          "id": "generated.forgemod:supermartijn642corelib:1.1.20-mc1.21@jar",
+          "name": "SuperMartijn642 Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 558373,
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/supermartijn642corelib-1.1.20-neoforge-mc1.21.jar",
+            "MD5": "37a5ba87dacdb6c2062ba4af5cf348cd"
+          }
+        },
+        {
           "id": "generated.forgemod:journeymap:1.21.1-6.0.0-beta.53@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
