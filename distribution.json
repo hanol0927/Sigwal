@@ -1025,6 +1025,16 @@
           }
         },
         {
+          "id": "generated.forgemod:another_furniture:4.0.2@jar",
+          "name": "Another Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2417424,
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/another_furniture-neoforge-4.0.2.jar",
+            "MD5": "49f67d0c26a0d9efe494c07ebc04dc82"
+          }
+        },
+        {
           "id": "generated.forgemod:notenoughanimations:1.11.1@jar",
           "name": "NotEnoughAnimations",
           "type": "ForgeMod",
