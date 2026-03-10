@@ -825,6 +825,26 @@
           }
         },
         {
+          "id": "generated.forgemod:framework:0.13.11-mc1.21.1@jar",
+          "name": "Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387334,
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/framework-neoforge-1.21.1-0.13.11.jar",
+            "MD5": "06f94f31d9e0b59c8b42a5b0df7013d6"
+          }
+        },
+        {
+          "id": "generated.forgemod:refurbished_furniture:1.0.22-mc1.21.1@jar",
+          "name": "Refurbished Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7133477,
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+            "MD5": "7379bc72b92f838949c073961dc72351"
+          }
+        },
+        {
           "id": "generated.forgemod:fallingleaves:2.5.1@jar",
           "name": "Fallingleaves",
           "type": "ForgeMod",
