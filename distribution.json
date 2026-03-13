@@ -1035,16 +1035,6 @@
           }
         },
         {
-          "id": "generated.forgemod:notenoughanimations:1.11.1@jar",
-          "name": "NotEnoughAnimations",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1928789,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/notenoughanimations-neoforge-1.11.1-mc1.21.1.jar",
-            "MD5": "b68335d3c4bb23b78a2a73cdf0a81f4a"
-          }
-        },
-        {
           "id": "generated.forgemod:obscure_tooltips:4.2.2@jar",
           "name": "Obscure Tooltips",
           "type": "ForgeMod",
