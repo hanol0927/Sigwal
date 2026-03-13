@@ -13,7 +13,7 @@
       "description": "싸촌네 1.21.1",
       "icon": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/Icon.png",
       "version": "1.0.0",
-      "address": "182.216.39.123:20015",
+      "address": "172.65.166.118:20001",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
