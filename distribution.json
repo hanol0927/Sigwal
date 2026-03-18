@@ -1364,6 +1364,17 @@
           }
         },
         {
+          "id": "gonjang.json",
+          "name": "gonjang.json",
+          "type": "File",
+          "artifact": {
+            "size": 6123,
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/files/emotes/gonjang.json",
+            "MD5": "5c8f2f6c4e6c9f5b9f0d3b7a1c6a2e91",
+            "path": "emotes/gonjang.json"
+          }
+        },
+        {
           "id": "creativecore-client.json",
           "name": "creativecore-client.json",
           "type": "File",
