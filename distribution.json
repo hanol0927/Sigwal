@@ -1135,16 +1135,6 @@
           }
         },
         {
-          "id": "generated.forgemod:watut:1.21.0-1.2.7@jar",
-          "name": "What Are They Up To",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 432269,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/watut-neoforge-1.21.0-1.2.7.jar",
-            "MD5": "31cfc24b7997dbf6ed84cd844de37d7d"
-          }
-        },
-        {
           "id": "generated.forgemod:wso64:1.0.0@jar",
           "name": "Why stack only 64",
           "type": "ForgeMod",
