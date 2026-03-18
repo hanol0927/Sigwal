@@ -955,16 +955,6 @@
           }
         },
         {
-          "id": "generated.forgemod:chunkloaders:1.2.8-mc1.21@jar",
-          "name": "Chunk Loaders",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 143749,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/chunkloaders-1.2.8-neoforge-mc1.21.jar",
-            "MD5": "c9b6897f622c53566a04ed8313bf603c"
-          }
-        },
-        {
           "id": "generated.forgemod:supermartijn642configlib:1.1.8-mc1.21@jar",
           "name": "SuperMartijn642 Config Lib",
           "type": "ForgeMod",
