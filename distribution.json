@@ -1959,17 +1959,7 @@
             "path": "config/sound_physics_remastered/soundphysics.properties"
           }
         },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 164,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/files/servers.dat",
-            "MD5": "9b6f3d7a9c1d6c5f4e2a1b8d3c7e5f21",
-            "path": "servers.dat"
-          }
-        },
+
         {
           "id": "sound_rates.properties",
           "name": "sound_rates.properties",
@@ -2074,9 +2064,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 100,
+            "size": 164,
             "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/files/servers.dat",
-            "MD5": "26b13356fb70765ef236af8ec78a0efa",
+            "MD5": "9b6f3d7a9c1d6c5f4e2a1b8d3c7e5f21",
             "path": "servers.dat"
           }
         }
