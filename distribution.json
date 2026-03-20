@@ -3505,14 +3505,14 @@
           }
         },
         {
-          "id": "CYML챈나.zip",
-          "name": "CYML챈나.zip",
+          "id": "CYML.zip",
+          "name": "CYML.zip",
           "type": "File",
           "artifact": {
             "size": 8778119,
-            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/resourcepacks/CYML%EC%B1%88%EB%82%98.zip",
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/resourcepacks/CYML.zip",
             "MD5": "87ee74c1a66f7b9eac8667d73c7b9e59",
-            "path": "resourcepacks/CYML챈나.zip"
+            "path": "resourcepacks/CYML.zip"
           }
         },
         {
