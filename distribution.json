@@ -3323,9 +3323,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 188,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/files/servers.dat",
-            "MD5": "2f4c8e9a6d3b1f7c5a0e9d2c6b4a1f38",
+            "size": 15062,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/servers.dat",
+            "MD5": "e8062a2069037dc5f8c3e4ad88abe25b",
             "path": "servers.dat"
           }
         },
