@@ -3286,14 +3286,14 @@
           }
         },
         {
-          "id": "hanpolicemod-1.1.jar",
-          "name": "hanpolicemod-1.1.jar",
+          "id": "hanpolicemod-1.0.jar",
+          "name": "hanpolicemod-1.0.jar",
           "type": "File",
           "artifact": {
-            "size": 2217993,
-            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/mods/hanpolicemod-1.1.jar",
-            "MD5": "fef52a429f2a74fd183782094aae0a7f",
-            "path": "mods/hanpolicemod-1.1.jar"
+            "size": 2219108,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/mods/hanpolicemod-1.0.jar",
+            "MD5": "68c6a654e477e3c9c410f74c296cd242",
+            "path": "mods/hanpolicemod-1.0.jar"
           }
         },
         {
