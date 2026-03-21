@@ -1883,17 +1883,6 @@
           }
         },
         {
-          "id": "smoothchunk.json",
-          "name": "smoothchunk.json",
-          "type": "File",
-          "artifact": {
-            "size": 585,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/files/config/smoothchunk.json",
-            "MD5": "854ac5572ff95f7de0d6423aeb9fba04",
-            "path": "config/smoothchunk.json"
-          }
-        },
-        {
           "id": "smoothgui.json",
           "name": "smoothgui.json",
           "type": "File",
