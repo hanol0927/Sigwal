@@ -2063,11 +2063,11 @@
     },
     {
       "id": "chaenna-1.21.1",
-      "name": "chaenna (Minecraft 1.21.1)",
-      "description": "chaenna Running Minecraft 1.21.1 (NeoForge v21.1.219)",
+      "name": "챈나경도",
+      "description": "챈나경도 1.21.1",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "1.251.106.137",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -2075,7 +2075,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.neoforged:neoforge:21.1.219:universal",
