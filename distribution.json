@@ -735,16 +735,6 @@
           }
         },
         {
-          "id": "generated.forgemod:customnpcs:1.21.1.20251230@jar",
-          "name": "Custom NPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10789250,
-            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/forgemods/required/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
-            "MD5": "34f52ed3b674bb956b7a0d7f6967c00f"
-          }
-        },
-        {
           "id": "generated.forgemod:dynamic_fps:3.11.4@jar",
           "name": "Dynamic FPS",
           "type": "ForgeMod",
