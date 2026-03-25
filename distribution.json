@@ -2055,7 +2055,7 @@
       "id": "chaenna-1.21.1",
       "name": "챈나경도",
       "description": "챈나경도 1.21.1",
-      "icon": null,
+      "icon": "https://hanol0927.github.io/chaennawizard/servers/chaennawizard-1.16.5/Icon.png",
       "version": "1.0.0",
       "address": "211.245.95.16",
       "minecraftVersion": "1.21.1",
