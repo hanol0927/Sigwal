@@ -3276,17 +3276,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 4373,
-            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/options.txt",
-            "MD5": "8910b842c562388fec4cbe93aabfe15c",
-            "path": "options.txt"
-          }
-        },
-        {
           "id": "CYML.zip",
           "name": "CYML.zip",
           "type": "File",
