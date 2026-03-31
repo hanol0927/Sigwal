@@ -1323,6 +1323,17 @@
           }
         },
         {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2478,
+            "url": "https://hanol0927.github.io/Ssachon/servers/Ssachon-1.21.1/files/resourcepacks/generated.zip",
+            "MD5": "3c1a9f2e6b4d8c7f5e0a2d9b6c4f1e73",
+            "path": "resourcepacks/generated.zip"
+          }
+        },
+        {
           "id": "General.toml",
           "name": "General.toml",
           "type": "File",
