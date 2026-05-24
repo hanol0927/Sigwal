@@ -7,6 +7,481 @@
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
+    "servers": [
+    {
+      "id": "chaenna-1.16.4",
+      "name": "chaenna (Minecraft 1.16.4)",
+      "description": "chaenna Running Minecraft 1.16.4 (Fabric v0.19.2)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "182.216.39.123:20015",
+      "minecraftVersion": "1.16.4",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.19.2",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1968930,
+            "MD5": "d692407a67129e913b4210218edebb20",
+            "url": "https://hanol0927.github.io/chaenna/repo/lib/net/fabricmc/fabric-loader/0.19.2/fabric-loader-0.19.2.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.16.4-fabric-0.19.2",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "ceee61e8084afd49c248f9aaef65c679",
+                "url": "https://hanol0927.github.io/chaenna/repo/versions/1.16.4-fabric-0.19.2/1.16.4-fabric-0.19.2.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "url": "https://hanol0927.github.io/chaenna/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "url": "https://hanol0927.github.io/chaenna/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "url": "https://hanol0927.github.io/chaenna/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "url": "https://hanol0927.github.io/chaenna/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "url": "https://hanol0927.github.io/chaenna/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.17.2+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1540039,
+                "MD5": "4b6b96074976cc7aa096b9e569ca623e",
+                "url": "https://hanol0927.github.io/chaenna/repo/lib/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.16.4",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 406368,
+                "MD5": "9f33b23cfb40c8b0cd196942829a65b7",
+                "url": "https://hanol0927.github.io/chaenna/repo/lib/net/fabricmc/intermediary/1.16.4/intermediary-1.16.4.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "squeek.appleskin:appleskin:mc1.16.4-2.2.0@jar",
+          "name": "AppleSkin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 920014,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/appleskin-fabric-mc1.16.x-2.2.0.jar",
+            "MD5": "8cddc0ffc2f9f433c0c9bc7f92a6e2d3"
+          }
+        },
+        {
+          "id": "generated.fabricmod:chat_heads:0.6.0-fabric-1.16.5@jar",
+          "name": "Chat_heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 25526,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/chat_heads-0.6.0-fabric-1.16.5.jar",
+            "MD5": "1495f9c514b5e363c7cb4f88b4d0e896"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config2:4.14.54@jar",
+          "name": "Cloth Config v4",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1095579,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/cloth-config-4.14.54-fabric.jar",
+            "MD5": "4f3069c93677ac74b4e0b1c5a04fe70d"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.5.2@jar",
+          "name": "EntityCulling-Fabric",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 44133,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/entityculling-fabric-mc1.16.5-1.5.2.jar",
+            "MD5": "877dcbc4cdc0b9d9e5fb0cc4c39f4ab4"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric:0.29.3+1.16@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 871565,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/fabric-api-0.29.3+1.16.jar",
+            "MD5": "757ad13296388be02230622053dc283d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.11+kotlin.2.3.21@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7813444,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+            "MD5": "06f4497b65f800a0b110025d8e9a4005"
+          }
+        },
+        {
+          "id": "net.minecraftforge:forgeconfigapiport:1.0.2@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 332102,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/ForgeConfigAPIPort-v1.0.2-1.16.5-Fabric.jar",
+            "MD5": "8696cbe3cc2fe53548d9a613d06a4780"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iceberg:1.16.5-1.0.45@jar",
+          "name": "Iceberg",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 61577,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/Iceberg-1.16.5-1.0.45.jar",
+            "MD5": "ec502208377ca481a2e551b99e4cb050"
+          }
+        },
+        {
+          "id": "generated.fabricmod:inventoryessentials_1.16.3:2.3.2@jar",
+          "name": "InventoryEssentials_1.16.3",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 23300,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/InventoryEssentials_1.16.3-2.3.2.jar",
+            "MD5": "dd1cbb01b983d2d2d6cd620ee2becf0c"
+          }
+        },
+        {
+          "id": "net.coderbot:iris:1.1.3@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1560565,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/iris-mc1.16.5-1.1.3.jar",
+            "MD5": "039936d3729b91ead16c518d2d53accc"
+          }
+        },
+        {
+          "id": "generated.fabricmod:jade:1.16.4-2.8.3@jar",
+          "name": "Jade",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 260212,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/Jade-1.16.4-2.8.3.jar",
+            "MD5": "424b0eb9998bc92defc9eacb5a869a99"
+          }
+        },
+        {
+          "id": "generated.fabricmod:legendarytooltips:1.16.5-1.3.1@jar",
+          "name": "LegendaryTooltips",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 47620,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/LegendaryTooltips-1.16.5-1.3.1.jar",
+            "MD5": "0f3efac888568591ef0dd74a45d9a127"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:lithium:0.6.6@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 349400,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/lithium-fabric-mc1.16.5-0.6.6.jar",
+            "MD5": "19f9a82b0753ae21430761a8916f0533"
+          }
+        },
+        {
+          "id": "org.embeddedt:modernfix:5.18.0+mc1.16.5@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 614422,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/modernfix-fabric-5.18.0+mc1.16.5.jar",
+            "MD5": "1a1271bbf58901af7ecf32eb5dc35d44"
+          }
+        },
+        {
+          "id": "generated.fabricmod:modernui:1.16.5-2.5.1.86-universal@jar",
+          "name": "ModernUI",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 10570932,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/ModernUI-1.16.5-2.5.1.86-universal.jar",
+            "MD5": "b5b4af44c782d65b26dc566f019c8ae3"
+          }
+        },
+        {
+          "id": "dev.tr7zw:notenoughanimations:1.2.4@jar",
+          "name": "NotEnoughAnimations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 308348,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/notenoughanimations-1.2.4.jar",
+            "MD5": "bdf41ab36dff9de8353b0f48d9e2326c"
+          }
+        },
+        {
+          "id": "dev.kosmx.playerAnim:player-animator:0.4.0+1.16.5@jar",
+          "name": "Player Animator",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 160800,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/player-animation-lib-fabric-0.4.0+1.16.5.jar",
+            "MD5": "02879c94ff7034479d9b8e37856620e5"
+          }
+        },
+        {
+          "id": "generated.fabricmod:prism:1.16.5-1.0.1@jar",
+          "name": "Prism",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 51909,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/Prism-1.16.5-1.0.1.jar",
+            "MD5": "e05bc2b8aed2331717815029d1eb29c4"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.2.0+build.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 507710,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
+            "MD5": "98914f22cfe2d0ea5d8007ae8ff96062"
+          }
+        },
+        {
+          "id": "dev.tr7zw:transliterationlib:1.0.4@jar",
+          "name": "TRansliterationLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 922991,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/TRansliterationLib-1.0.4.jar",
+            "MD5": "59f38e590dc30a6ec438d4ded004dd6d"
+          }
+        },
+        {
+          "id": "net.wurstclient.zoom:wi_zoom:1.3-MC1.16.4@jar",
+          "name": "WI Zoom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 520066,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/fabricmods/required/WI-Zoom-1.3-MC1.16.4.jar",
+            "MD5": "4cbd5ba5fc59e72f1c5de9fc8d7ad4df"
+          }
+        },
+        {
+          "id": "appleskin.json5",
+          "name": "appleskin.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1327,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/config/appleskin.json5",
+            "MD5": "406b4584562fb60304a8adc824de0000",
+            "path": "config/appleskin.json5"
+          }
+        },
+        {
+          "id": "chat_heads.json5",
+          "name": "chat_heads.json5",
+          "type": "File",
+          "artifact": {
+            "size": 100,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/config/chat_heads.json5",
+            "MD5": "b58cfc73cfe6c6060b347c67294467e4",
+            "path": "config/chat_heads.json5"
+          }
+        },
+        {
+          "id": "entityculling.json",
+          "name": "entityculling.json",
+          "type": "File",
+          "artifact": {
+            "size": 511,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/config/entityculling.json",
+            "MD5": "5266dcb4f8c790f8e4e9aedc11181b48",
+            "path": "config/entityculling.json"
+          }
+        },
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 257,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/config/fabric/indigo-renderer.properties",
+            "MD5": "3631e3332df54783ed130d4879705e0f",
+            "path": "config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 199,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/config/iris.properties",
+            "MD5": "dfe08197ba59275dfc93c0f273f44399",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "lithium.properties",
+          "name": "lithium.properties",
+          "type": "File",
+          "artifact": {
+            "size": 350,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/config/lithium.properties",
+            "MD5": "681c81eaf825ba3d11097adaf017e39b",
+            "path": "config/lithium.properties"
+          }
+        },
+        {
+          "id": "modernfix-mixins.properties",
+          "name": "modernfix-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 3493,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/config/modernfix-mixins.properties",
+            "MD5": "2a3cb335edf6de85a0810e05167511ca",
+            "path": "config/modernfix-mixins.properties"
+          }
+        },
+        {
+          "id": "notenoughanimations.json",
+          "name": "notenoughanimations.json",
+          "type": "File",
+          "artifact": {
+            "size": 484,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/config/notenoughanimations.json",
+            "MD5": "7998cf620ed17f4c5383ad959608b393",
+            "path": "config/notenoughanimations.json"
+          }
+        },
+        {
+          "id": "sodium-mixins.properties",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/config/sodium-mixins.properties",
+            "MD5": "6f5f12de22f04364e57a623174cf1484",
+            "path": "config/sodium-mixins.properties"
+          }
+        },
+        {
+          "id": "sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 618,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/config/sodium-options.json",
+            "MD5": "eb335a91b8e29e1fbce4b5df7cf17d36",
+            "path": "config/sodium-options.json"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 90,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/servers.dat",
+            "MD5": "8385bbad0367aac9f4c00ebfe4481802",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "BSL_v8.2.09.zip",
+          "name": "BSL_v8.2.09.zip",
+          "type": "File",
+          "artifact": {
+            "size": 954784,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/shaderpacks/BSL_v8.2.09.zip",
+            "MD5": "4443556b4e0d63394f0df1297e484454",
+            "path": "shaderpacks/BSL_v8.2.09.zip"
+          }
+        },
+        {
+          "id": "Complementary_v3.09_[UNZIP_ME].zip",
+          "name": "Complementary_v3.09_[UNZIP_ME].zip",
+          "type": "File",
+          "artifact": {
+            "size": 432481,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/shaderpacks/Complementary_v3.09_[UNZIP_ME].zip",
+            "MD5": "b33ef0b15185694dfc9221875f6f9630",
+            "path": "shaderpacks/Complementary_v3.09_[UNZIP_ME].zip"
+          }
+        },
+        {
+          "id": "Solas Shader V3.6.zip",
+          "name": "Solas Shader V3.6.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1229545,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.16.4/files/shaderpacks/Solas%20Shader%20V3.6.zip",
+            "MD5": "5346494db593aac5da674b441cd86dd8",
+            "path": "shaderpacks/Solas Shader V3.6.zip"
+          }
+        }
+      ]
+    },
     {
       "id": "Ruxelmon-1.16.5",
       "name": "러켓몬",
