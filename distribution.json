@@ -13,7 +13,7 @@
       "description": "chaenna Running Minecraft 1.21.1 (NeoForge v21.1.229)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "182.216.39.123:20007",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
