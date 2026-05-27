@@ -5833,17 +5833,6 @@
           }
         },
         {
-          "id": "timestamp",
-          "name": "timestamp",
-          "type": "File",
-          "artifact": {
-            "size": 13,
-            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/plasmovoice/.crowdin/timestamp",
-            "MD5": "504fcedd2325e8e970d89d3144e7e78e",
-            "path": "config/plasmovoice/.crowdin/timestamp"
-          }
-        },
-        {
           "id": "tr_tr.json",
           "name": "tr_tr.json",
           "type": "File",
