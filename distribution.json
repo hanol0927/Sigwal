@@ -6625,17 +6625,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 5839,
-            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/options.txt",
-            "MD5": "d0b07a987cd401e5214741f2ab2d10f9",
-            "path": "options.txt"
-          }
-        },
-        {
           "id": "r.-1.-1.mca",
           "name": "r.-1.-1.mca",
           "type": "File",
