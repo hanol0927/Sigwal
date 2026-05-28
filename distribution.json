@@ -605,16 +605,6 @@
           }
         },
         {
-          "id": "generated.forgemod:betterthirdperson:1.9.0@jar",
-          "name": "Better Third Person",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 60941,
-            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/BetterThirdPerson-neoforge-1.9.0.jar",
-            "MD5": "cb6470da1b6bbe6880fcf721aa87e0e1"
-          }
-        },
-        {
           "id": "generated.forgemod:blurserveraddress:1.2.0+mc1.21.1@jar",
           "name": "BlurServerAddress",
           "type": "ForgeMod",
@@ -5379,17 +5369,6 @@
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/armourers_workshop-common.toml",
             "MD5": "e244648e30c1c0e6de4234500a3275e4",
             "path": "config/armourers_workshop-common.toml"
-          }
-        },
-        {
-          "id": "betterthirdperson-common.toml",
-          "name": "betterthirdperson-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 749,
-            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/betterthirdperson-common.toml",
-            "MD5": "5bef953b7ce37c8febd8a4eb0cdbdfff",
-            "path": "config/betterthirdperson-common.toml"
           }
         },
         {
