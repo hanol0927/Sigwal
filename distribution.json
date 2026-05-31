@@ -1005,6 +1005,26 @@
           }
         },
         {
+          "id": "generated.forgemod:hadesclient:1.0-SNAPSHOT@jar",
+          "name": "HadesClient",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10881830,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/hadesclient-1.0-SNAPSHOT.jar",
+            "MD5": "24ebb13c5f441b04380f99d40c4c2858"
+          }
+        },
+        {
+          "id": "generated.forgemod:horanglibrary:0.1.1@jar",
+          "name": "Horang Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23551939,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/horanglibrary-neoforge-0.1.1.jar",
+            "MD5": "36a08848b605069acbe84729e0c6c3fc"
+          }
+        },
+        {
           "id": "2632.dat",
           "name": "2632.dat",
           "type": "File",
