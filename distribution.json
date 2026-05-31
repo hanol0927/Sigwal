@@ -1005,6 +1005,16 @@
           }
         },
         {
+          "id": "generated.forgemod:mcef:2.1.6-1.21.1@jar",
+          "name": "MCEF (Minecraft Chromium Embedded Framework)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215373,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/mcef-neoforge-2.1.6-1.21.1.jar",
+            "MD5": "a4f657a693ca4375e05f0997e2d28952"
+          }
+        },
+        {
           "id": "generated.forgemod:hadesclient:1.0-SNAPSHOT@jar",
           "name": "HadesClient",
           "type": "ForgeMod",
