@@ -625,6 +625,16 @@
           }
         },
         {
+          "id": "generated.forgemod:caramelchat:1.2.2@jar",
+          "name": "caramelChat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 165026,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/caramelChat-mc1.21.1-neoforge-1.2.2.jar",
+            "MD5": "1df3413d9f3dc6fa819e388bba54f3da"
+          }
+        },
+        {
           "id": "generated.forgemod:cloth_config:15.0.140@jar",
           "name": "Cloth Config v15 API",
           "type": "ForgeMod",
