@@ -5182,190 +5182,190 @@
           }
         },
         {
-          "id": "[ 寃 ?꾩꽦??].armour",
-          "name": "[ 寃 ?꾩꽦??].armour",
+          "id": "[ 검 완성형 ].armour",
+          "name": "[ 검 완성형 ].armour",
           "type": "File",
           "artifact": {
             "size": 36519,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EA%B2%80%20%EC%99%84%EC%84%B1%ED%98%95%20].armour",
             "MD5": "f9d438110c5bab69ef3fa603e6c295e1",
-            "path": "armourers_workshop/skin-library/[ 寃 ?꾩꽦??].armour"
+            "path": "armourers_workshop/skin-library/[ 검 완성형 ].armour"
           }
         },
         {
-          "id": "[ 寃 吏꾪솕??].armour",
-          "name": "[ 寃 吏꾪솕??].armour",
+          "id": "[ 검 진화형 ].armour",
+          "name": "[ 검 진화형 ].armour",
           "type": "File",
           "artifact": {
             "size": 21791,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EA%B2%80%20%EC%A7%84%ED%99%94%ED%98%95%20].armour",
             "MD5": "bf9b5c8fe480d199e8fedbee207e826a",
-            "path": "armourers_workshop/skin-library/[ 寃 吏꾪솕??].armour"
+            "path": "armourers_workshop/skin-library/[ 검 진화형 ].armour"
           }
         },
         {
-          "id": "[ ?덈뱶?멸렇 ].armour",
-          "name": "[ ?덈뱶?멸렇 ].armour",
+          "id": "[ 니드호그 ].armour",
+          "name": "[ 니드호그 ].armour",
           "type": "File",
           "artifact": {
             "size": 36098,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EB%8B%88%EB%93%9C%ED%98%B8%EA%B7%B8%20].armour",
             "MD5": "0f56fd231d030167a3d4bc61dab3d684",
-            "path": "armourers_workshop/skin-library/[ ?덈뱶?멸렇 ].armour"
+            "path": "armourers_workshop/skin-library/[ 니드호그 ].armour"
           }
         },
         {
-          "id": "[ ?寃 ?꾩꽦??].armour",
-          "name": "[ ?寃 ?꾩꽦??].armour",
+          "id": "[ 대검 완성형 ].armour",
+          "name": "[ 대검 완성형 ].armour",
           "type": "File",
           "artifact": {
             "size": 89834,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EB%8C%80%EA%B2%80%20%EC%99%84%EC%84%B1%ED%98%95%20].armour",
             "MD5": "f7d0d3156523221a12ad3c4d93414369",
-            "path": "armourers_workshop/skin-library/[ ?寃 ?꾩꽦??].armour"
+            "path": "armourers_workshop/skin-library/[ 대검 완성형 ].armour"
           }
         },
         {
-          "id": "[ ?寃 吏꾪솕??].armour",
-          "name": "[ ?寃 吏꾪솕??].armour",
+          "id": "[ 대검 진화형 ].armour",
+          "name": "[ 대검 진화형 ].armour",
           "type": "File",
           "artifact": {
             "size": 34982,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EB%8C%80%EA%B2%80%20%EC%A7%84%ED%99%94%ED%98%95%20].armour",
             "MD5": "fa7ec8cee54daec08f1774228aa782e0",
-            "path": "armourers_workshop/skin-library/[ ?寃 吏꾪솕??].armour"
+            "path": "armourers_workshop/skin-library/[ 대검 진화형 ].armour"
           }
         },
         {
-          "id": "[ ?꾨겮 ?꾩꽦??].armour",
-          "name": "[ ?꾨겮 ?꾩꽦??].armour",
+          "id": "[ 도끼 완성형 ].armour",
+          "name": "[ 도끼 완성형 ].armour",
           "type": "File",
           "artifact": {
             "size": 35122,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EB%8F%84%EB%81%BC%20%EC%99%84%EC%84%B1%ED%98%95%20].armour",
             "MD5": "84da5314046c0d8d54ca82e3d318f778",
-            "path": "armourers_workshop/skin-library/[ ?꾨겮 ?꾩꽦??].armour"
+            "path": "armourers_workshop/skin-library/[ 도끼 완성형 ].armour"
           }
         },
         {
-          "id": "[ ?꾨겮 吏꾪솕??].armour",
-          "name": "[ ?꾨겮 吏꾪솕??].armour",
+          "id": "[ 도끼 진화형 ].armour",
+          "name": "[ 도끼 진화형 ].armour",
           "type": "File",
           "artifact": {
             "size": 24958,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EB%8F%84%EB%81%BC%20%EC%A7%84%ED%99%94%ED%98%95%20].armour",
             "MD5": "d10e00cefb7c78c5e825ec67653ccdc8",
-            "path": "armourers_workshop/skin-library/[ ?꾨겮 吏꾪솕??].armour"
+            "path": "armourers_workshop/skin-library/[ 도끼 진화형 ].armour"
           }
         },
         {
-          "id": "[ ?ъ떊????].armour",
-          "name": "[ ?ъ떊????].armour",
+          "id": "[ 사신의 낫 ].armour",
+          "name": "[ 사신의 낫 ].armour",
           "type": "File",
           "artifact": {
             "size": 52227,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EC%82%AC%EC%8B%A0%EC%9D%98%20%EB%82%AB%20].armour",
             "MD5": "36ca13bfab7b56e79457baab99553abe",
-            "path": "armourers_workshop/skin-library/[ ?ъ떊????].armour"
+            "path": "armourers_workshop/skin-library/[ 사신의 낫 ].armour"
           }
         },
         {
-          "id": "[ ?앷턿 ?꾩꽦??].armour",
-          "name": "[ ?앷턿 ?꾩꽦??].armour",
+          "id": "[ 석궁 완성형 ].armour",
+          "name": "[ 석궁 완성형 ].armour",
           "type": "File",
           "artifact": {
             "size": 14346,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EC%84%9D%EA%B6%81%20%EC%99%84%EC%84%B1%ED%98%95%20].armour",
             "MD5": "322e79fcda401d80fdfb99139fc94558",
-            "path": "armourers_workshop/skin-library/[ ?앷턿 ?꾩꽦??].armour"
+            "path": "armourers_workshop/skin-library/[ 석궁 완성형 ].armour"
           }
         },
         {
-          "id": "[ ?앷턿 吏꾪솕??].armour",
-          "name": "[ ?앷턿 吏꾪솕??].armour",
+          "id": "[ 석궁 진화형 ].armour",
+          "name": "[ 석궁 진화형 ].armour",
           "type": "File",
           "artifact": {
             "size": 8830,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EC%84%9D%EA%B6%81%20%EC%A7%84%ED%99%94%ED%98%95%20].armour",
             "MD5": "ca8f4501ecf3a155f9c36e9c76c1f019",
-            "path": "armourers_workshop/skin-library/[ ?앷턿 吏꾪솕??].armour"
+            "path": "armourers_workshop/skin-library/[ 석궁 진화형 ].armour"
           }
         },
         {
-          "id": "[ 李??꾩꽦??].armour",
-          "name": "[ 李??꾩꽦??].armour",
+          "id": "[ 창 완성형 ].armour",
+          "name": "[ 창 완성형 ].armour",
           "type": "File",
           "artifact": {
             "size": 62811,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EC%B0%BD%20%EC%99%84%EC%84%B1%ED%98%95%20].armour",
             "MD5": "e825c64eec9eac0339f0057852041608",
-            "path": "armourers_workshop/skin-library/[ 李??꾩꽦??].armour"
+            "path": "armourers_workshop/skin-library/[ 창 완성형 ].armour"
           }
         },
         {
-          "id": "[ 李?吏꾪솕??].armour",
-          "name": "[ 李?吏꾪솕??].armour",
+          "id": "[ 창 진화형 ].armour",
+          "name": "[ 창 진화형 ].armour",
           "type": "File",
           "artifact": {
             "size": 25459,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EC%B0%BD%20%EC%A7%84%ED%99%94%ED%98%95%20].armour",
             "MD5": "5c663804285946b85ddaeb4c18da44d9",
-            "path": "armourers_workshop/skin-library/[ 李?吏꾪솕??].armour"
+            "path": "armourers_workshop/skin-library/[ 창 진화형 ].armour"
           }
         },
         {
-          "id": "[ 耳瑜대쿋濡쒖뒪 ].armour",
-          "name": "[ 耳瑜대쿋濡쒖뒪 ].armour",
+          "id": "[ 케르베로스 ].armour",
+          "name": "[ 케르베로스 ].armour",
           "type": "File",
           "artifact": {
             "size": 15997,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%EC%BC%80%EB%A5%B4%EB%B2%A0%EB%A1%9C%EC%8A%A4%20].armour",
             "MD5": "0abc94500e6785b503f0165ebd7be149",
-            "path": "armourers_workshop/skin-library/[ 耳瑜대쿋濡쒖뒪 ].armour"
+            "path": "armourers_workshop/skin-library/[ 케르베로스 ].armour"
           }
         },
         {
-          "id": "[ ???꾩꽦??].armour",
-          "name": "[ ???꾩꽦??].armour",
+          "id": "[ 활 완성형 ].armour",
+          "name": "[ 활 완성형 ].armour",
           "type": "File",
           "artifact": {
             "size": 27391,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%ED%99%9C%20%EC%99%84%EC%84%B1%ED%98%95%20].armour",
             "MD5": "a1e99e6dde199a50d591812ad3524d46",
-            "path": "armourers_workshop/skin-library/[ ???꾩꽦??].armour"
+            "path": "armourers_workshop/skin-library/[ 활 완성형 ].armour"
           }
         },
         {
-          "id": "[ ??吏꾪솕??].armour",
-          "name": "[ ??吏꾪솕??].armour",
+          "id": "[ 활 진화형 ].armour",
+          "name": "[ 활 진화형 ].armour",
           "type": "File",
           "artifact": {
             "size": 13979,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/[%20%ED%99%9C%20%EC%A7%84%ED%99%94%ED%98%95%20].armour",
             "MD5": "dc528b959c882b91f0876c3813c3bcd3",
-            "path": "armourers_workshop/skin-library/[ ??吏꾪솕??].armour"
+            "path": "armourers_workshop/skin-library/[ 활 진화형 ].armour"
           }
         },
         {
-          "id": "湲곕낯 ?꾨겮.armour",
-          "name": "湲곕낯 ?꾨겮.armour",
+          "id": "기본 도끼.armour",
+          "name": "기본 도끼.armour",
           "type": "File",
           "artifact": {
             "size": 9535,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/%EA%B8%B0%EB%B3%B8%20%EB%8F%84%EB%81%BC.armour",
             "MD5": "84ae5c94eb6a05a34893e35a50fede3f",
-            "path": "armourers_workshop/skin-library/湲곕낯 ?꾨겮.armour"
+            "path": "armourers_workshop/skin-library/기본 도끼.armour"
           }
         },
         {
-          "id": "湲곕낯寃.armour",
-          "name": "湲곕낯寃.armour",
+          "id": "기본검.armour",
+          "name": "기본검.armour",
           "type": "File",
           "artifact": {
             "size": 6787,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/armourers_workshop/skin-library/%EA%B8%B0%EB%B3%B8%EA%B2%80.armour",
             "MD5": "3f4de7c8ae74888fdd8084bf8d87dd16",
-            "path": "armourers_workshop/skin-library/湲곕낯寃.armour"
+            "path": "armourers_workshop/skin-library/기본검.armour"
           }
         },
         {
