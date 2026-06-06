@@ -1019,9 +1019,9 @@
           "name": "HadesClient",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11082428,
+            "size": 11091442,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/hadesclient-1.0-SNAPSHOT.jar",
-            "MD5": "9ad80706ac8da657e47d495ded8e72c5"
+            "MD5": "b17887966e21f4671cc4c50948c5a05c"
           }
         },
         {
