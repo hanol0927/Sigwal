@@ -1015,7 +1015,7 @@
           }
         },
         {
-          "id": "generated.forgemod:hadesclient:1.0-SNAPSHOT@jar",
+          "id": "generated.forgemod:hadesclient:1.0-SNAPSHOT-eeb5c2d2@jar",
           "name": "HadesClient",
           "type": "ForgeMod",
           "artifact": {
