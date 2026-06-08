@@ -1019,9 +1019,9 @@
           "name": "HadesClient",
           "type": "ForgeMod",
           "artifact": {
-            "size": 31818088,
+            "size": 33404170,
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/hadesclient-1.0-SNAPSHOT.jar",
-            "MD5": "0c658b932a69cae3b1b17475104293c8"
+            "MD5": "6464226ee7aa9d8f53e1011138b32b1f"
           }
         },
         {
@@ -8897,6 +8897,311 @@
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/shaderpacks/BSL_v10.1.1.zip.txt",
             "MD5": "23fb95621d55d98b170b30001a4a0802",
             "path": "shaderpacks/BSL_v10.1.1.zip.txt"
+          }
+        },
+        {
+          "id": "generated.forgemod:fancymenu:3.9.1@jar",
+          "name": "FancyMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25346355,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
+            "MD5": "41e7769dc89dff4a2c123b6e5f3123de"
+          }
+        },
+        {
+          "id": "generated.forgemod:konkrete:1.9.9@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 618842,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/konkrete_neoforge_1.9.9_MC_1.21.jar",
+            "MD5": "6e77d08299ea1ec7756a299263bc469b"
+          }
+        },
+        {
+          "id": "generated.forgemod:melody:1.0.10@jar",
+          "name": "Melody",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 36096,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/melody_neoforge_1.0.10_MC_1.21.jar",
+            "MD5": "875f4a68f2cd7ee2cc135904653c93d4"
+          }
+        },
+        {
+          "id": "config/fancymenu/assets/background.png",
+          "name": "background.png",
+          "type": "File",
+          "artifact": {
+            "size": 8768159,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/assets/background.png",
+            "MD5": "ef08201a56a9f42e1fd2931c51932565",
+            "path": "config/fancymenu/assets/background.png"
+          }
+        },
+        {
+          "id": "config/fancymenu/assets/icon.png",
+          "name": "icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 3615658,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/assets/icon.png",
+            "MD5": "6abe49795e56a131c0437c02f5cf0dff",
+            "path": "config/fancymenu/assets/icon.png"
+          }
+        },
+        {
+          "id": "config/fancymenu/assets/null.png",
+          "name": "null.png",
+          "type": "File",
+          "artifact": {
+            "size": 81,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/assets/null.png",
+            "MD5": "488cb0b25cbcc3b4003f2f0fe70d673c",
+            "path": "config/fancymenu/assets/null.png"
+          }
+        },
+        {
+          "id": "config/fancymenu/custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "106e52948415f0879c53304f50783b28",
+            "path": "config/fancymenu/custom_gui_screens.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 413,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "2c762f8f59ad4aba7bf09f67ad588f16",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/connect_screen_layout.txt",
+          "name": "connect_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 15808,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/customization/connect_screen_layout.txt",
+            "MD5": "fab3894d7f33ef7bdbfaf3d4cde804e7",
+            "path": "config/fancymenu/customization/connect_screen_layout.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/disconnected_screen_layout.txt",
+          "name": "disconnected_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 21172,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/customization/disconnected_screen_layout.txt",
+            "MD5": "22df6a0ce4ca2b5d0f05e9b9a8bd0cda",
+            "path": "config/fancymenu/customization/disconnected_screen_layout.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/generic_dirt_message_screen_layout.txt",
+          "name": "generic_dirt_message_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 13156,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/customization/generic_dirt_message_screen_layout.txt",
+            "MD5": "945bbf50bc013ee7e83598b65fd4f1e0",
+            "path": "config/fancymenu/customization/generic_dirt_message_screen_layout.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/level_loading_screen_layout.txt",
+          "name": "level_loading_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 15819,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/customization/level_loading_screen_layout.txt",
+            "MD5": "5d9e9eba760c8bee4534bc580a0fb737",
+            "path": "config/fancymenu/customization/level_loading_screen_layout.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/progress_screen_layout.txt",
+          "name": "progress_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 15805,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/customization/progress_screen_layout.txt",
+            "MD5": "761e120b9af666b46aeb1ff9a250e9c0",
+            "path": "config/fancymenu/customization/progress_screen_layout.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/receiving_level_screen_layout.txt",
+          "name": "receiving_level_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 13163,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/customization/receiving_level_screen_layout.txt",
+            "MD5": "b40aab272aa63f46799d1b60d425c95e",
+            "path": "config/fancymenu/customization/receiving_level_screen_layout.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/title_screen_layout.txt",
+          "name": "title_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 53170,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/customization/title_screen_layout.txt",
+            "MD5": "b0388c58f72cb617105347ccd257e782",
+            "path": "config/fancymenu/customization/title_screen_layout.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+          "name": "element_layer_control.lewidget",
+          "type": "File",
+          "artifact": {
+            "size": 197,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
+            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+          }
+        },
+        {
+          "id": "config/fancymenu/legacy_checklist.txt",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "path": "config/fancymenu/legacy_checklist.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4399,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/options.txt",
+            "MD5": "bbf58ab289630a4c3f1d54f35be42baa",
+            "path": "config/fancymenu/options.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/ui_themes/cherry_blossom.json",
+          "name": "cherry_blossom.json",
+          "type": "File",
+          "artifact": {
+            "size": 9349,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/ui_themes/cherry_blossom.json",
+            "MD5": "90e358ee1c6bbd1d17bbcdad0a504f3d",
+            "path": "config/fancymenu/ui_themes/cherry_blossom.json"
+          }
+        },
+        {
+          "id": "config/fancymenu/ui_themes/cozy_campfire.json",
+          "name": "cozy_campfire.json",
+          "type": "File",
+          "artifact": {
+            "size": 9347,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/ui_themes/cozy_campfire.json",
+            "MD5": "02b0cd78a482dbd7ec793e123f4c007b",
+            "path": "config/fancymenu/ui_themes/cozy_campfire.json"
+          }
+        },
+        {
+          "id": "config/fancymenu/ui_themes/dark.json",
+          "name": "dark.json",
+          "type": "File",
+          "artifact": {
+            "size": 9329,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/ui_themes/dark.json",
+            "MD5": "cbf30e731636c918d598f1ad9b0ea371",
+            "path": "config/fancymenu/ui_themes/dark.json"
+          }
+        },
+        {
+          "id": "config/fancymenu/ui_themes/dark_high_contrast.json",
+          "name": "dark_high_contrast.json",
+          "type": "File",
+          "artifact": {
+            "size": 9359,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/ui_themes/dark_high_contrast.json",
+            "MD5": "4b532a7a5c5ecd839e55a3c083c8bca3",
+            "path": "config/fancymenu/ui_themes/dark_high_contrast.json"
+          }
+        },
+        {
+          "id": "config/fancymenu/ui_themes/light.json",
+          "name": "light.json",
+          "type": "File",
+          "artifact": {
+            "size": 9331,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/ui_themes/light.json",
+            "MD5": "f3980d6eed1064c36d794d7b1030fd06",
+            "path": "config/fancymenu/ui_themes/light.json"
+          }
+        },
+        {
+          "id": "config/fancymenu/ui_themes/light_high_contrast.json",
+          "name": "light_high_contrast.json",
+          "type": "File",
+          "artifact": {
+            "size": 9361,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/ui_themes/light_high_contrast.json",
+            "MD5": "700ff9cd0e95ac2234e0494af729226a",
+            "path": "config/fancymenu/ui_themes/light_high_contrast.json"
+          }
+        },
+        {
+          "id": "config/fancymenu/ui_themes/pumpkin_soup.json",
+          "name": "pumpkin_soup.json",
+          "type": "File",
+          "artifact": {
+            "size": 9345,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/ui_themes/pumpkin_soup.json",
+            "MD5": "d322c4bde872420ddeb2eaa124d0f16a",
+            "path": "config/fancymenu/ui_themes/pumpkin_soup.json"
+          }
+        },
+        {
+          "id": "config/fancymenu/ui_themes/purple_void.json",
+          "name": "purple_void.json",
+          "type": "File",
+          "artifact": {
+            "size": 9343,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/ui_themes/purple_void.json",
+            "MD5": "79df3b7ab7a74d55e3f5bb70cd996dea",
+            "path": "config/fancymenu/ui_themes/purple_void.json"
+          }
+        },
+        {
+          "id": "config/fancymenu/ui_themes/spooky_season.json",
+          "name": "spooky_season.json",
+          "type": "File",
+          "artifact": {
+            "size": 9347,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/ui_themes/spooky_season.json",
+            "MD5": "c45cc6e6bd9c4a296227e764dcf1e953",
+            "path": "config/fancymenu/ui_themes/spooky_season.json"
+          }
+        },
+        {
+          "id": "config/fancymenu/user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/fancymenu/user_variables.db",
+            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "path": "config/fancymenu/user_variables.db"
           }
         }
       ]
