@@ -865,16 +865,6 @@
           }
         },
         {
-          "id": "generated.forgemod:mod_menu:1.0.2@jar",
-          "name": "Mod Menu (NeoForge Edition)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 933248,
-            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/Mod%20Menu%20(NeoForge%20Edition)%201.21.1-1.0.2.jar",
-            "MD5": "bc44f629a0013e8dea8e41021b3c1a24"
-          }
-        },
-        {
           "id": "generated.forgemod:modernfix:5.27.11+mc1.21.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
@@ -5641,17 +5631,6 @@
             "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/modernfix-mixins.properties",
             "MD5": "63bdb8247653d8665e11f51d600b04d3",
             "path": "config/modernfix-mixins.properties"
-          }
-        },
-        {
-          "id": "mod_menu-client.toml",
-          "name": "mod_menu-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2607,
-            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/mod_menu-client.toml",
-            "MD5": "a69c1e9982e48c5e2ba593f689d8ce85",
-            "path": "config/mod_menu-client.toml"
           }
         },
         {
