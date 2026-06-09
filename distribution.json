@@ -789,9 +789,9 @@
           "name": "HadesClient",
           "type": "ForgeMod",
           "artifact": {
-            "size": 31809553,
-            "url": "https://hanol0927.github.io/chaennarung/servers/Chaennarung-1.21.1/forgemods/required/hadesclient-1.0-SNAPSHOT-8f9cca44.jar",
-            "MD5": "8f9cca440ac1bca9ad332b7f789ec296"
+            "size": 33497769,
+            "url": "https://hanol0927.github.io/chaennarung/servers/Chaennarung-1.21.1/forgemods/required/hadesclient-1.0-SNAPSHOT-c610b9af.jar",
+            "MD5": "c4ca78635fd3b708793700917426d4c8"
           }
         },
         {
@@ -8684,3 +8684,4 @@
     }
   ]
 }
+
