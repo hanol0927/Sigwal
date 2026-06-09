@@ -565,16 +565,6 @@
           ]
         },
         {
-          "id": "generated.forgemod:animatedmojanglogo:2.1@jar",
-          "name": "Animated Mojang Logo",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 82967712,
-            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/forgemods/required/animatedmojanglogo-2.1.jar",
-            "MD5": "b2b3d4478bea6059457ab11672dad621"
-          }
-        },
-        {
           "id": "generated.forgemod:architectury:13.0.8@jar",
           "name": "Architectury",
           "type": "ForgeMod",
@@ -5359,17 +5349,6 @@
           }
         },
         {
-          "id": "animated-mojang-logo.json",
-          "name": "animated-mojang-logo.json",
-          "type": "File",
-          "artifact": {
-            "size": 216,
-            "url": "https://hanol0927.github.io/chaenna/servers/chaenna-1.21.1/files/config/animated-mojang-logo.json",
-            "MD5": "5133ee0c3f3b388ee21a8fa1d05753e7",
-            "path": "config/animated-mojang-logo.json"
-          }
-        },
-        {
           "id": "armourers_workshop-client.toml",
           "name": "armourers_workshop-client.toml",
           "type": "File",
@@ -9187,3 +9166,4 @@
     }
   ]
 }
+
